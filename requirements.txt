@@ -1,0 +1,11 @@
+Flask
+gunicorn
+sqlalchemy
+pymysql
+python-dotenv
+mysqlclient
+pandas
+openai
+matplotlib
+numpy
+plotly
