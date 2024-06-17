@@ -5,6 +5,7 @@ pymysql
 python-dotenv
 mysqlclient
 pandas
+scikit-learn
 openai
 matplotlib
 numpy
